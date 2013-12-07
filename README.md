@@ -1,0 +1,11 @@
+DCBinaryTree
+============
+
+Naive implementation of a binary tree for iOS developers.
+
+**Version 0.1**
+Initial commit. I did this super naive implementation of a binary tree because I couldn't find one to work on an iOS app. Apple does have a native library, NSTreeNode for Mac development, but it isn't supported on iOS development. So what I did is created basic functions that helped me solve my initial problem, which was traversing a decision tree.
+
+Maybe I'll improve the library later, cleaning up code and improving implementation with more useful binary tree related functions.
+
+*Note: the project I'm currently working right now is non-ARC, so the library also isn't.*
